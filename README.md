@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/23ed44d7-58a3-49d0-91e8-4fbcd14e031a)# Домашнее задание к занятию "`Git`" - `Зарецкий Юрий`
+# Домашнее задание к занятию "`Git`" - `Зарецкий Юрий`
 
 
 ### Инструкция по выполнению домашнего задания
@@ -48,12 +48,18 @@ https://github.com/daroutine/hwgit/commit/fb6300107c5cb27f6acfbdc6b10d9e143eafe8
 https://github.com/netology-code/sys-pattern-homework/commit/bcc8dec26103eda2105180781280a63674cbe6a5
   
    touch .gitignore
+   
    git status
+   
    git add .gitignore
+   
    sudo nano gitignore
+   
    *.pyc
    cache/   
+   
    git commit -m "Добавлен .gitignore"
+   
    git push origin main
 
 ### Задание 3
