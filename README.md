@@ -45,7 +45,8 @@ https://github.com/daroutine/hwgit/commit/fb6300107c5cb27f6acfbdc6b10d9e143eafe8
     history
 
 ### Задание 2
-https://github.com/netology-code/sys-pattern-homework/commit/bcc8dec26103eda2105180781280a63674cbe6a5
+
+https://github.com/daroutine/hwgit/blob/main/.gitignore
   
    touch .gitignore
    
